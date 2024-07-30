@@ -1,0 +1,29 @@
+body{
+  color: purple;
+  background-color:green;
+  Font-family:Georgia, serif;
+  text-align: right;
+  
+  p{
+    font: Ariel;
+    background-color: blue;
+    text-align: left;
+    
+     
+}
+  section{
+     text-align: right;
+  }
+
+#my-button{
+  background-color: yellow;
+  border: none;
+  color: orange;
+  padding: 15px, 20px;
+  text-align: right;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 50px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
